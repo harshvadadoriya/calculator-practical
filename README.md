@@ -13,5 +13,13 @@ Follow these steps to set up the project on your local machine.
    ```
 
    ```bash
+   cd calculator-practical
+   ```
+
+   ```bash
    run index.html
    ```
+
+## Demo
+
+Check out the live demo: [Calculator](https://calculator-practical0.netlify.app/)
